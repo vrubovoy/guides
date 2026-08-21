@@ -1,4 +1,4 @@
-# ZudaR Docs
+# Vrubovoy Docs
 
 **Pragmatic tech guides & theory.** Installations, tooling, workflows, troubleshooting, security, and infrastructure — written in a no-BS style, with screenshots and copy-paste commands. Built with **MkDocs** + **Material for MkDocs**.
 
@@ -153,7 +153,7 @@ Such a resource should be completely **unlicensed** — and accessible to **ever
 
 ## Contact
 
-* Author: [@zudaR107](https://github.com/zudaR107)
+* Author: [@vrubovoy](https://github.com/vrubovoy)
 * Telegram: [https://t.me/vrubovoy](https://t.me/vrubovoy)
 
 Enjoy the guides! 🚀

@@ -1,4 +1,4 @@
-site_name: ZudaR Docs
+site_name: Vrubovoy Docs
 site_description: Гайды по ОС, Arch Linux и прочим радостям жизни
 site_url: https://docs.zudar.ru/
 
@@ -30,7 +30,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-repo_url: https://github.com/zudaR107/guides
+repo_url: https://github.com/vrubovoy/guides
 edit_uri: edit/main/docs/
 
 nav:
@@ -88,7 +88,7 @@ extra:
     - icon: fontawesome/brands/telegram
       link: https://t.me/vrubovoy
     - icon: fontawesome/brands/github
-      link: https://github.com/zudaR107
+      link: https://github.com/vrubovoy
   alternate:
     - name: Русский
       link: /

@@ -284,7 +284,7 @@ sudo pacman -Syy
 
 Я специально подготовил отдельный репозиторий с конфигами:
 
-**[https://github.com/zudaR107/cachyos-configs](https://github.com/zudaR107/cachyos-configs)**
+**[https://github.com/vrubovoy/cachyos-configs](https://github.com/vrubovoy/cachyos-configs)**
 
 Там уже лежит мой набор настроек под систему, плюс есть скрипт автоматической установки и первоначальной настройки.
 
@@ -293,7 +293,7 @@ sudo pacman -Syy
 ```bash
 mkdir -p ~/Sandbox
 cd ~/Sandbox
-git clone https://github.com/zudaR107/cachyos-configs
+git clone https://github.com/vrubovoy/cachyos-configs
 cd cachyos-configs
 ```
 

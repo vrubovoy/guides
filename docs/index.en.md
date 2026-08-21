@@ -1,4 +1,4 @@
-# ZudaR Docs
+# Vrubovoy Docs
 
 A series of practical guides and theory notes on OSes, Arch Linux, and other useful tech bits.  
 Below are sections and fresh materials.

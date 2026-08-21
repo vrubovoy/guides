@@ -109,12 +109,12 @@ set -U fish_user_paths $HOME/.local/bin $HOME/.local/lib/hyde $fish_user_paths
 Хотите заменить дефолтные настройки? Тогда сперва поменяйте тему на **Cmd + Shift + T**.
 
 У меня есть репозиторий с конфигами: можно брать целиком или по кускам.
-Репозиторий: [zudaR107/Configs](https://github.com/zudaR107/Configs)
+Репозиторий: [vrubovoy/Configs](https://github.com/vrubovoy/Configs)
 
 ```bash
 mkdir -p ~/Sandbox
 cd ~/Sandbox
-git clone https://github.com/zudaR107/Configs
+git clone https://github.com/vrubovoy/Configs
 ```
 
 **Важно:** конфиги приложений живут в **`~/.config`**. Перед копированием **посмотрите содержимое** и подправьте под себя — я старался комментировать, где нужно.

@@ -284,7 +284,7 @@ You can always change all of this later through the settings panel. But as usual
 
 I prepared a separate repository with my configs:
 
-**[https://github.com/zudaR107/cachyos-configs](https://github.com/zudaR107/cachyos-configs)**
+**[https://github.com/vrubovoy/cachyos-configs](https://github.com/vrubovoy/cachyos-configs)**
 
 It already contains my system setup, plus a script for automatic installation and initial configuration.
 
@@ -293,7 +293,7 @@ It already contains my system setup, plus a script for automatic installation an
 ```bash
 mkdir -p ~/Sandbox
 cd ~/Sandbox
-git clone https://github.com/zudaR107/cachyos-configs
+git clone https://github.com/vrubovoy/cachyos-configs
 cd cachyos-configs
 ```
 

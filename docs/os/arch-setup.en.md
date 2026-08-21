@@ -109,12 +109,12 @@ set -U fish_user_paths $HOME/.local/bin $HOME/.local/lib/hyde $fish_user_paths
 Want to replace the defaults? First switch theme via **Cmd + Shift + T**.
 
 I’ve got a config repo: take it wholesale or cherry‑pick.
-Repo: zudaR107/Configs
+Repo: vrubovoy/Configs
 
 ```bash
 mkdir -p ~/Sandbox
 cd ~/Sandbox
-git clone https://github.com/zudaR107/Configs
+git clone https://github.com/vrubovoy/Configs
 ```
 
 **Important:** app configs live in **`~/.config`**. Before copying, **inspect the contents** and tweak to taste—I tried to comment where needed.
